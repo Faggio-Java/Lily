@@ -1,10 +1,10 @@
 #!bin/bash
 
-port="ports/$1.tar.xz"
+port="ports/$1/wget.sh"
 
-if [ -f ports/$1.tar.xz ]
+if [ -f $port ]
 then
-   tar -xf ports/$1.tar.xz && sh $1/install.sh && source ~/.bashrc
+  sh $port && tar -xf $1.tar.xz && sh $1/install.sh
 else
    if [ "$1" == "installed"  ]
    then
