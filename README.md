@@ -4,6 +4,6 @@ installation:
 ```
 sh install.sh
 ```
-<br/><br/>
+<br/>
 dependencys:
 wget
