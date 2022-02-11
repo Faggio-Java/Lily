@@ -4,6 +4,12 @@ installation:
 ```
 sh install.sh
 ```
+<br/>
+Usage:
+```
+lily <package name>
+```
+
 dependencys:
 wget
 <br/>
