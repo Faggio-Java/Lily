@@ -1,6 +1,6 @@
 Lily - A binary based package manager for lfs
 <br/>
-This will never be updated see this [Repo](https://github.com/Faggio-Java/Lily) for a up to date version
+This will never be updated see this [Repo](https://github.com/Faggio-Java/Lily-Rusty) for a up to date version
 <br/>
 installation:
 ```
